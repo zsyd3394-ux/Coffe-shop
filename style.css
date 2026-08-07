@@ -79,3 +79,6 @@
     background-color: #5a3d2b !important;
     background-color: #5a3d2b !important ;
 }
+.card-body{
+    text-align: center;
+}
